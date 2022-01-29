@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Inspiration
+
+https://dribbble.com/shots/17045698-Lindo-Traffic-Website
+
 ## Available Scripts
 
 In the project directory, you can run:
