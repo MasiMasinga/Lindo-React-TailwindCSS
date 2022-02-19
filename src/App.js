@@ -21,24 +21,24 @@ function App() {
         <img className="absolute opacity-70" src={bg1} alt="" />
         <div className="max-w-7xl mx-auto py-10 px-8 relative ">
           <nav className="flex items-center justify-between">
-            <a href="#" className="text-2xl font-semibold text-white">
+            <a href="/" className="text-2xl font-semibold text-white">
               Liondon
             </a>
             <ul className="flex gap-x-16 items-center text-gray-300">
               <li>
-                <a href="#">Rankings</a>
+                <a href="/">Rankings</a>
               </li>
               <li>
-                <a href="#">Data</a>
+                <a href="/">Data</a>
               </li>
               <li>
-                <a href="#">Solution</a>
+                <a href="/">Solution</a>
               </li>
               <li>
-                <a href="#">Pricing</a>
+                <a href="/">Pricing</a>
               </li>
               <li>
-                <a href="#">Resources</a>
+                <a href="/">Resources</a>
               </li>
             </ul>
             <button className="py-3 px-6 font-medium tracking-wider leading-5 text-white rounded-md border-2 border-gray-800">
